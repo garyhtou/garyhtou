@@ -6,7 +6,9 @@ tools**](https://hackclub.com/bank) 🏦 to help students run their own
 
 
 <sub>[Linkedin](https://www.linkedin.com/in/gary-tou/) •
-[Email](mailto:gary@garytou.com)</sub>
+[Website](https://garytou.com/) •
+[Email](mailto:gary@garytou.com)
+</sub>
 
 
 <details>
