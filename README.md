@@ -1,8 +1,8 @@
-Hello 👋, I'm a college student studying **Computer Science** 👨‍💻. I love
-anything tech/business and work as a **Software Engineer** at [Hack
-Club](https://github.com/hackclub) building [**financial
-tools**](https://hackclub.com/bank) 🏦 to help students run their own
-**non-profits**!
+Hello 👋, I use [**Ruby on Rails**](https://rubyonrails.org/) to reinvent Nonprofit
+[Fiscal Sponsorship](https://en.wikipedia.org/wiki/Fiscal_sponsorship)! I love
+anything tech/business and work as an **Engineering Manager** at
+[Hack Club](https://hackclub.com/) building **financial tools** 🏦 to help
+people run **nonprofit** organizations!
 
 
 <sub>[Linkedin](https://www.linkedin.com/in/gary-tou/) •
